@@ -1,6 +1,6 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "downloadUrl": "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-  "notes": "修复 Windows 安装批处理在部分系统代码页下乱码导致无法安装的问题；0.1.9 用户请更新到 0.1.10。提取码：yzhb",
+  "notes": "RunningHub 图生图模型改接低价渠道版 /rhart-image-n-pro/edit，移除之前误接的 official 接口。提取码：yzhb",
   "releaseDate": "2026-05-21"
 }
