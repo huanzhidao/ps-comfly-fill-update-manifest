@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.18",
+    "version":  "0.1.19",
     "downloadUrl":  "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-    "notes":  "新增参考图功能，可添加本地图片或当前图层作为生成参考。提取码：yzhb",
+    "notes":  "设置页新增清理缓存，可清空任务记录、参考图列表和插件临时图片。提取码：yzhb",
     "releaseDate":  "2026-05-21"
 }
