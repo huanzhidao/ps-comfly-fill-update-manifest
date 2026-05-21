@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "downloadUrl": "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-  "notes": "新增 RunningHub 全能图片PRO 图生图接口；Comfly 默认接口地址改为 https://ai.comfly.org，并放开接口地址改写限制。提取码：yzhb",
+  "notes": "修复 Windows 中文输入法候选窗位置和间歇无法输入中文的问题。提取码：yzhb",
   "releaseDate": "2026-05-21"
 }
