@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "downloadUrl": "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-  "notes": "修复 Base URL 隐藏字符导致的 Invalid URL，新增使用说明和支持作者入口。提取码：yzhb",
+  "notes": "优化提示词输入框中文输入稳定性，减少 IME 焦点干扰。提取码：yzhb",
   "releaseDate": "2026-05-21"
 }
