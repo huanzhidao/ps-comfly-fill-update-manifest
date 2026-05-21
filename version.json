@@ -1,6 +1,6 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "downloadUrl": "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-  "notes": "RunningHub 图生图模型改接低价渠道版 /rhart-image-n-pro/edit，移除之前误接的 official 接口。提取码：yzhb",
+  "notes": "Comfly 历史默认地址 https://ai.comfly.chat 会自动迁移到 https://ai.comfly.org；其他自定义接口地址不会被改写。提取码：yzhb",
   "releaseDate": "2026-05-21"
 }
