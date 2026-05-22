@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.19",
+    "version":  "0.1.24",
     "downloadUrl":  "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-    "notes":  "参考图区改为紧凑单行，设置页新增清理缓存，可清空任务记录、参考图列表和插件临时图片。提取码：yzhb",
-    "releaseDate":  "2026-05-21"
+    "notes":  "检查更新失败时新增打开网盘备用入口，国内网络也能更方便获取最新版。提取码：yzhb",
+    "releaseDate":  "2026-05-22"
 }
