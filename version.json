@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.30",
+    "version":  "0.1.31",
     "downloadUrl":  "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-    "notes":  "设置页新增 API 接入提示，版本号同步到 0.1.30。提取码：yzhb",
-    "releaseDate":  "2026-05-25"
+    "notes":  "优化低高度面板下的提示词引导；扩图补边会说明不填提示词时使用内置扩图提示词。提取码：yzhb",
+    "releaseDate":  "2026-05-26"
 }
