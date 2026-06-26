@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.31",
+    "version":  "0.1.32",
     "downloadUrl":  "https://pan.baidu.com/s/1iKGTqoEAb23JgUbRP55hIg?pwd=yzhb",
-    "notes":  "优化低高度面板下的提示词引导；扩图补边会说明不填提示词时使用内置扩图提示词。提取码：yzhb",
-    "releaseDate":  "2026-05-26"
+    "notes":  "新增任务历史保留；任务中断后会明确提示；修复接口错误原因显示为 [object Object] 的问题。提取码：yzhb",
+    "releaseDate":  "2026-06-26"
 }
